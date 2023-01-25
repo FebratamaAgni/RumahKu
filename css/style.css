@@ -157,3 +157,63 @@ body {
   background-color: rgba(0, 0, 0, 0.6);
 }
 /* akhir fitur */
+
+/* section contact */
+#contact {
+  background-image: url(../assets/img/kontak-img.png);
+  margin-top: 158px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#contact .overlay {
+  background: rgba(0, 0, 0, 0.5);
+}
+#contact .container {
+  padding: 148px 0;
+}
+#contact h3 {
+  line-height: 60px;
+  font-size: 40px;
+}
+.kontak h6 {
+  font-size: 18px;
+  line-height: 27px;
+  margin: 19px 0 14px 0;
+}
+.kontak a {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 18px;
+  color: white;
+  text-decoration: none;
+  margin-left: 18px;
+}
+.card-contact {
+  height: 445px;
+  background-color: white;
+  border-radius: 5px;
+  padding: 52px 48px;
+}
+.card-contact h2 {
+  font-size: 40px;
+  line-height: 60px;
+  color: #00985b;
+  margin-bottom: 21px;
+}
+.form-control {
+  background: #c4c4c4;
+  height: 75px;
+}
+.form-floating label {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 18px;
+  color: #717171;
+}
+.btc {
+  line-height: 36px;
+  font-size: 24px;
+}
+/* akhir contact */
