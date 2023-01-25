@@ -1,0 +1,9 @@
+let navbar = document.getElementsByTagName("nav")[0];
+window.addEventListener("scroll", function () {
+  console.log(window.scrollY);
+  if (window.scrollY > 580) {
+    navbar.classList.replace("bg-transparent", "nav-color");
+  } else if (window.scrollY <= 570) {
+    navbar.classList.replace("nav-color", "bg-transparent");
+  }
+});

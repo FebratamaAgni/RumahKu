@@ -8,6 +8,9 @@ body {
 .navbar {
   z-index: 3;
 }
+.nav-color {
+  background-color: #007245;
+}
 .btdaftar {
   width: 133px;
   height: 40px;
