@@ -122,3 +122,38 @@ body {
   font-size: 12px;
 }
 /* akhir rekomendasi */
+
+/* section fitur */
+.bt1 {
+  width: 238px;
+  height: 63px;
+  border: none;
+  font-size: 20px;
+}
+.bt2 {
+  border-radius: 50%;
+  border: none;
+  padding: 0;
+}
+#fitur h2 {
+  font-size: 48px;
+}
+.card-fitur h5 {
+  font-size: 36px;
+}
+.card-fitur h6 {
+  font-size: 24px;
+}
+.card-fitur span {
+  font-size: 14px;
+}
+.card-fitur button {
+  border: none;
+  width: 150px;
+  height: 45px;
+  font-size: 18px;
+}
+.card-fitur .overlay {
+  background-color: rgba(0, 0, 0, 0.6);
+}
+/* akhir fitur */
